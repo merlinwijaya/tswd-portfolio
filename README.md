@@ -9,26 +9,18 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Heyy. My name is Merlin Wijaya (she/her). I’m originally from Indonesia. Currently, I’m a second-year graduate student in Health Care Analytics and Information Technology program at CMU Heinz College. I’ve been into working out and cooking lately.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+I want to work as a data analyst after graduation. From this course, I hope to learn:
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Good chart characteristics.
+2. Pitfalls in data visualization and storytelling. Also, ways to counter that.
+3. Methods to make expressive and efficient charts.
+4. Narate and present the chart with confidence and great flow.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
