@@ -7,3 +7,4 @@
 <div class="flourish-embed flourish-chart" data-src="visualisation/14954541"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Part 3: Create your own visualization
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/14963943"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
