@@ -14,8 +14,7 @@ I want to work as a data analyst after graduation. From this course, I hope to l
 
 
 # Portfolio
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-Link to the assignment's page: (dataviz2.md)
+## Assignment: [Visualizing overnment Debt](dataviz2.md)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
