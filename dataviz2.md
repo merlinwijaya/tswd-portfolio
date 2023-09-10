@@ -13,6 +13,8 @@ The audience may not be able to tell whether the ratio is in a favorable range b
 
 I used diverging hues to demonstrate successive colors with varying extreme points. Since a range of less than 60% is still regarded as good, I utilized two different shades of blue: darker blue for countries with less debt (less than 30%) and lighter blue for countries on the cusp of the 60% barrier (30-60%). On the other hand, I use red for ratios greater than 60% to signal that they have a high debt-to-GDP ratio. These colors were generated using Adobe Color Wheel. I also chose blue and red for color-blind people to be able to distinguish, rather than the more popular green and red.
 
+With this heatmap, the audience is not only able to compare the value over the period of time between countries but also able to get insight into the countries' financial stability based on debt-to-GDP ratio values.
+
 References:
 National debt (2023) The American Leader. Available at: https://theamericanleader.org/problems/national-debt/ (Accessed: 10 September 2023).	
 
