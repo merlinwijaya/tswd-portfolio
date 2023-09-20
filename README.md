@@ -16,8 +16,7 @@ I want to work as a data analyst after graduation. From this course, I hope to l
 # Portfolio
 ## Assignment: [Visualizing government Debt](https://merlinwijaya.github.io/tswd-portfolio/dataviz2.html)
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+## Assignment 3&4: [Critique by Design](critique-by-design)  
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
