@@ -1,3 +1,6 @@
+| [home page](https://merlinwijaya.github.io/tswd-portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+
 # Assignment: Visualizing government debt
 
 ## [Home Page](https://merlinwijaya.github.io/tswd-portfolio/)
