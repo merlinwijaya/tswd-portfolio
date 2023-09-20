@@ -2,8 +2,8 @@
 
 # Critique by Design
 ## Step one: find a data visualization
-![visualoriginal](critiquebydesign.jpeg)
-Source: https://www.visualcapitalist.com/sp/the-high-cost-of-chronic-diseases-worldwide/
+<img src="critiquebydesign.jpeg" width="200"/>
+Source: [Visual Capitalist](https://www.visualcapitalist.com/sp/the-high-cost-of-chronic-diseases-worldwide/)
 
 ## Step two: critique the data visualization
 
