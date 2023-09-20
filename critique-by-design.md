@@ -2,14 +2,13 @@
 
 # Critique by Design
 ## Step one: find a data visualization
-<img src="critiquebydesign.jpeg" width="200"/>
+<img src="critiquebydesign.jpeg" width="700"/>
 Source: [Visual Capitalist](https://www.visualcapitalist.com/sp/the-high-cost-of-chronic-diseases-worldwide/)
 
 ## Step two: critique the data visualization
 
 
 ## Step three: sketch out a solution
-
 
 ## Step four: Test the solution
 
