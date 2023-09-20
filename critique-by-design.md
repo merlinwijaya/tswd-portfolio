@@ -63,9 +63,11 @@ My initial thoughts were to maintain the labels but add one more label, which is
 I shared the sketches with two people and here are the feedbacks that I got:
 
 1. Student, mid 20's
+   
 She said it was interesting to see how the rank and her perceptions changed a lot after seeing the third sketch where I used percentage change values. She mentioned how the slope chart isn't the right chart to visualize this data. She recommended using a bar plot and also added values for years 2019 and 2045 predictions on the pop-up. 
 
 2. Doctor, late 20's
+   
 She expressed how she liked the original chart, especially the design construction part. She was surprised when she saw my sketches showing the percentage change. She said it was a very intriguing way to see and interpret the data. She also mentioned how she would prefer that I rebuild my third sketch using a different kind of chart type since it doesn't make sense and seems redundant cause all the data start from zero percent.
 
 ## Step five: Build your solution
