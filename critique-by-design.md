@@ -21,5 +21,3 @@ https://www.visualcapitalist.com/sp/the-high-cost-of-chronic-diseases-worldwide/
 <div style="display: inline-block; width: 50%;">
     <div class="flourish-embed flourish-chart" data-src="visualisation/15077155"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </div>
-    </div>
-</div>
