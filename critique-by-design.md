@@ -13,10 +13,10 @@ Source: [Visual Capitalist](https://www.visualcapitalist.com/sp/the-high-cost-of
 ## Step four: Test the solution
 
 ## Step five: Build your solution
-<div style="display: inline-block; width: 50%;">
+<div style="display: inline-block; width: 60%;">
     <div class="flourish-embed flourish-slope" data-src="visualisation/15077309"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </div>
 
-<div style="display: inline-block; width: 50%;">
+<div style="display: inline-block; width: 60%;">
     <div class="flourish-embed flourish-chart" data-src="visualisation/15077155"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 </div>
