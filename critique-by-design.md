@@ -14,12 +14,11 @@ https://www.visualcapitalist.com/sp/the-high-cost-of-chronic-diseases-worldwide/
 ## Step four: Test the solution
 
 ## Step five: Build your solution
-<div style="display: flex; justify-content: space-between;">
-    <div style="width: 48%;">
+<div style="display: flex; justify-content: flex-start;">
+    <div style="margin-bottom: auto;">
         <div class="flourish-embed flourish-slope" data-src="visualisation/15077309"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
     </div>
-    
-    <div style="width: 48%;">
+    <div style="margin-bottom: auto;">
         <div class="flourish-embed flourish-chart" data-src="visualisation/15077155"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
     </div>
 </div>
