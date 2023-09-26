@@ -1,16 +1,28 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+> High-level summary of your project 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+I’m interested in public health, including population mental health. I want to address the issue of suicide, especially in the young adults category. My story arc would include introducing the topic by showing suicide incidents for the general population and then highlighting the young adults category. Following that would be the underlying cause of those attempts/incidents which is the mental health condition. After that, I would bring up initiatives people did for this problem, including in the education, insurance, or policy sectors and their impact of them. I would end the story with calls to action for the audience as an individual and also to policymakers. My goal with this project is to address the issue of young adults suicide by increasing awareness and leading people to help. 
 
-Text here...
+> In-class exercise for the story arc:
+One-line summary: Bringing Awareness and Empowering Communities to Prevent Young Adults Suicide
+
+As a reader, I want to know the underlying causes of suicide attempts so that I can understand the urgent need for proactive intervention and support.
+
+Call to action:
+
+I can do this by:
+-	Spreading awareness about youth suicide and reducing stigma through education and conversations
+-	Supporting organizations conducting research to develop effective prevention strategies
+-	Being an active listener and reaching out to those in need, encouraging them to seek professional help
+
+Policymakers can do this by:
+-	Adding mental health conditions coverage in health insurance policies
+-	Reduce access to lethal means among persons at risk of suicide
+-	Adding mental health education in education programs
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
