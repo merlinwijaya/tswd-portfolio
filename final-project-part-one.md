@@ -37,10 +37,13 @@ Text here...
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
+I uploaded a copy of the data to my [Google Drive](https://drive.google.com/drive/folders/1ZAqmYNhNKBN4cyEwy7CeuCTjJOoLUxdO?usp=drive_link).
+
+
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
+|number-of-deaths-from-suicide-ghe.csv | [Our World in Data](https://ourworldindata.org/suicide?insight=suicide-rates-rise-with-age#key-insights-on-suicide) | Data from WHO Global Health Estimates showing the number of suicide for each countries in the dataset from 2000-2019 |
+|suicide-rates-by-age-detailed-who|[Our World in Data](https://ourworldindata.org/suicide?insight=suicide-rates-rise-with-age#key-insights-on-suicide)|Data from WHO Global Health Estimates showing the number of suicide indicators grouped by age groups |
 |      |     |             |
 
 # Method and medium
