@@ -6,7 +6,8 @@
 
 I’m interested in public health, including population mental health. I want to address the issue of suicide, especially in the young adults category. My story arc would include introducing the topic by showing suicide incidents for the general population and then highlighting the young adults category. Following that would be the underlying cause of those attempts/incidents which is the mental health condition. After that, I would bring up initiatives people did for this problem, including in the education, insurance, or policy sectors and their impact of them. I would end the story with calls to action for the audience as an individual and also to policymakers. My goal with this project is to address the issue of young adults suicide by increasing awareness and leading people to help. 
 
-> In-class exercise for the story arc:
+> In-class exercise for the story arc
+
 One-line summary: Bringing Awareness and Empowering Communities to Prevent Young Adults Suicide
 
 As a reader, I want to know the underlying causes of suicide attempts so that I can understand the urgent need for proactive intervention and support.
