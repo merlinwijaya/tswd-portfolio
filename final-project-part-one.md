@@ -23,6 +23,7 @@ Policymakers can do this by:
 -	Reduce access to lethal means among persons at risk of suicide
 -	Adding mental health education in education programs
 
+<img src="photo1695694954.jpeg" width="800"/>
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
