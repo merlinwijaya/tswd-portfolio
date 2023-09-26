@@ -43,6 +43,8 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+To complete this project, I plan to do:
+1. Data Collection and Analysis: gather datasets from publicly available sources and do analysis.
+2. Visual Building: visualize the data with Flourish.
+3. Critique: ask for critiques for the visuals.
+4. Medium Selection: use Shorthand as a medium where I would build my story arc. I would include visuals that I make alongside and description of the story.
