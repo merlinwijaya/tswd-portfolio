@@ -26,9 +26,8 @@ Policymakers can do this by:
 <img src="photo1695694954.jpeg" width="800"/>
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+<img src="initialsketch1.jpeg" width="800"/>
+<img src="initialskect2.jpeg" width="800"/>
 
 # The data
 I uploaded a copy of the data to my [Google Drive](https://drive.google.com/drive/folders/1ZAqmYNhNKBN4cyEwy7CeuCTjJOoLUxdO?usp=drive_link).
