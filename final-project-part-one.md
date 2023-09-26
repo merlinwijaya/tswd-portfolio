@@ -31,20 +31,16 @@ Policymakers can do this by:
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
 I uploaded a copy of the data to my [Google Drive](https://drive.google.com/drive/folders/1ZAqmYNhNKBN4cyEwy7CeuCTjJOoLUxdO?usp=drive_link).
-
 
 | Name | URL | Description |
 |------|-----|-------------|
 |number-of-deaths-from-suicide-ghe.csv | [Our World in Data](https://ourworldindata.org/suicide?insight=suicide-rates-rise-with-age#key-insights-on-suicide) | Data from WHO Global Health Estimates showing the number of suicide for each countries in the dataset from 2000-2019 |
-|suicide-rates-by-age-detailed-who|[Our World in Data](https://ourworldindata.org/suicide?insight=suicide-rates-rise-with-age#key-insights-on-suicide)|Data from WHO Global Health Estimates showing the number of suicide indicators grouped by age groups |
-|      |     |             |
+|suicide-rates-by-age-detailed-who.csv|[Our World in Data](https://ourworldindata.org/suicide?insight=suicide-rates-rise-with-age#key-insights-on-suicide)|Data from WHO Global Health Estimates showing the number of suicide indicators grouped by age groups |
+|2022 State of Mental Health in America| [Mental Health America](https://mhanational.org/research-reports/2022-state-mental-health-america-report)|Annual State of Mental Health in America Report, which ranks all 50 states and the District of Columbia based on fifteen mental health prevalence and access measures for youth and adults|
+|SPP_April2022.xlsx|[Institute of Education Sciences](https://ies.ed.gov/schoolsurvey/spp/)|Surver results for Mental Health and Well-Being of Students and Staff During the Pandemic|
+
+I got my data mostly from international or national organizations that published public reports. I will use the first and second datasets in the table above for the introduction showing trends for the general population and focusing then on the young adults category. I would use the third dataset to show how mental health conditions correlate with suicide. Then I would show initiatives for suicide prevention from the education sector, by showing how schools provided mental health services from dataset 4.
 
 # Method and medium
 To complete this project, I plan to do:
