@@ -17,13 +17,11 @@ School boards are responsible for making decisions about educational institution
 
 ## Interview script
 | Goal | Questions to Ask |
-|------|------------------|
-|Understand Awareness|What is your awareness level regarding mental health issues among 15-24-year-olds?|
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Assessing Message Effectiveness|After viewing the  wireframes/storyboards, what emotions or reactions did the narrative evoke?|
 |Assessing Message Effectiveness|Did the narrative effectively communicate the importance of mental health education and suicide prevention to you?|
 |Identifying Improvement Opportunities|Were there any specific elements of the narrative that resonated with you? Conversely, were there aspects that you found unconvincing or unclear?|
 |Identifying Improvement Opportunities|How do you think the narrative can be made more impactful and engaging for the target audience?|
-
 
 Text here!
 
