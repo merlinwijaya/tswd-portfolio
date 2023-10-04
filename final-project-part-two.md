@@ -23,12 +23,6 @@ School boards are responsible for making decisions about educational institution
 
 
 ## Interview script
-| Goal               | Questions to Ask | 
-|-------------------------|--------------------------------|
-| Assessing Message Effectiveness | After viewing the  wireframes/storyboards, what emotions or reactions did the narrative evoke?  |
-| Assessing Message Effectiveness | Did the narrative effectively communicate the importance of mental health education and suicide prevention to you? |
-| Identifying Improvement Opportunities | Were there any specific elements of the narrative that resonated with you? Were there aspects that you found unconvincing or unclear? |
-| Identifying Improvement Opportunities | How do you think the narrative can be made more impactful and engaging for the target audience? |
 
 | Goal                               | Questions to Ask                                                   |
 |----------------------------------- |-------------------------------------------------------------------|
@@ -47,6 +41,8 @@ School boards are responsible for making decisions about educational institution
 | How do you think the narrative can be made more impactful and engaging for the target audience? | She mentioned how it would be great if I could give more details for the call for action including the who, what, and how. | She mentioned adding another visual regarding the impact of the education initiatives for better persuasion. | She said adding another example of the initiative would be good. One example that could be added is how individuals can also help their friends. |
 
 # Identified changes for Part III
+
+
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | The pie chart didn't communicate the data well | Remove the pie chart. Visualize the data using text, similar to the score card where the number is emphasized with a bigger font. |
@@ -55,5 +51,6 @@ School boards are responsible for making decisions about educational institution
 | Another example of the initiative for individuals to reach a general audience. |  Find data about things individuals can do to help their friends. Add another section after school-based mental health services to show this initiative. |
 
 
-> Final Thoughts
+
+# Final Thoughts
 The current storyboards did pretty well in conveying the message and influencing the audience's emotions to care about this matter. Some visuals need additional adjustments. The interview definitely helped to ensure that the message was conveyed well. It also helped in pointing out things that didn't work well. It was interesting to get conflicting responses too between the interviewees.
