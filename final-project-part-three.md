@@ -1,9 +1,7 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://merlinwijaya.github.io/tswd-portfolio/) | [visualizing debt](dataviz2) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+**[Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/tswd-final-project-presentation/index.html)**
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
@@ -29,3 +27,7 @@ Text here!
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 Text here!
+
+# Github Repository
+**[Github Repository](https://github.com/merlinwijaya/tswd-portfolio)**
+
