@@ -1,7 +1,7 @@
 | [home page](https://merlinwijaya.github.io/tswd-portfolio/) | [visualizing debt](dataviz2) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-**[Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/tswd-final-project-presentation/index.html)**
+**[Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/tswd-final-project-fall23/index.html)**
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
