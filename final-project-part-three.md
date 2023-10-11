@@ -3,25 +3,51 @@
 # The final data story
 **[Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/tswd-final-project-fall23/index.html)**
 
-# Changes made since Part II
+# Changes made since Part II 
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+1. Changed the pie chart to a scorecard visual.
+2. Added another visual showing the effect of the solution (school-based mental health services).
+3. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+The target audiences are:
+1. School boards.
+One of the solutions for the topic problem is to implement School-Based Mental Health Services (SBMHS). The main driver in realizing this is school boards. They need to understand the urgency of the suicidal behavior among the 15-24 age group so that they will make decisions to help. Those decisions can be about educational institutions’ curriculum, policies, and resources.
 
-Text here!
+2. Policymakers.
+Policymakers play a crucial role in advancing mental health initiatives. Their contributions can include endorsing laws and regulations that emphasize the importance of mental health education, awareness, and the availability of mental health services. Additionally, they can push for the allocation of more funds to enhance mental health support within educational institutions and local communities. Furthermore, they can allocate resources for data gathering and research to gain a deeper insight into the elements influencing youth suicide.
+   
+3. Parents.
+Parents play a pivotal role in shaping the mental well-being of their children. A crucial aspect is maintaining an open and non-judgmental line of communication with their children, promoting a conducive environment for discussing mental health. Furthermore, parents should educate themselves about the signs of mental distress and potential suicide risk in young individuals. If they suspect their child is struggling with mental health issues, seeking professional help and support is essential.
 
+4. Individuals.
+We also have the power to make a significant impact on suicide prevention and mental health support. Empowering oneself with knowledge about mental health and suicide risk factors is vital. Understanding how to effectively support those in crisis is crucial in fostering a supportive environment. Additionally, individuals can contribute to suicide prevention and mental health support by getting involved with local initiatives through volunteering or making donations. Sharing information about mental health resources and crisis helplines with friends and family can also make a difference in promoting mental health awareness and support within the community.
+  
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story.
+> A few paragraphs summarizing work, design decisions and observations.
+
+Color palette
 
 Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
+1. Facts About Suicide. (2023). Centers for Disease Control and Prevention. Available at: https://www.cdc.gov/suicide/facts/index.html (Accessed: 3 October 2023).
 
-Text here!
+2. Disparities in Suicide. (2023). Centers for Disease Control and Prevention. Available at: https://www.cdc.gov/suicide/facts/disparities-in-suicide.html#age (Accessed: 3 October 2023).
+
+3. National Institute of Mental Health. (2023). Suicide, www.nimh.nih.gov. National Institute of Mental Health. Available at: https://www.nimh.nih.gov/health/statistics/suicide (Accessed: 3 October 2023).
+
+4. Arsenault-Lapierre, G., Kim, C., & Turecki, G. (2004). Psychiatric diagnoses in 3275 suicides: a meta-analysis. BMC psychiatry, 4, 37. https://doi.org/10.1186/1471-244X-4-37
+
+5. Daze, G. (2022). What Are the Leading Causes of Suicidal Death?, BrainsWay. Available at: https://www.brainsway.com/knowledge-center/suicidality-causes-and-triggers/.
+
+6. NIMH. (2022). Mental Illness, www.nimh.nih.gov. NIMH. Available at: https://www.nimh.nih.gov/health/statistics/mental-illness#part_2539 (Accessed: 8 October 2023).
+
+7. Kutash, K., Duchnowski, A.J. & Green, A.L. School-Based Mental Health Programs for Students Who Have Emotional Disturbances: Academic and Social-Emotional Outcomes. School Mental Health 3, 191–208. (2011). https://doi.org/10.1007/s12310-011-9062-9
+
+8. Sanchez, A.L. et al. (2018). ‘The Effectiveness of School-Based Mental Health Services for Elementary-Aged Children: A Meta-Analysis’, Journal of the American Academy of Child & Adolescent Psychiatry, 57(3), pp. 153–165. Available at: https://doi.org/10.1016/j.jaac.2017.11.022.
+
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
