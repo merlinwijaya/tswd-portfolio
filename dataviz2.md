@@ -3,8 +3,6 @@
 
 # Assignment: Visualizing government debt
 
-## [Home Page](https://merlinwijaya.github.io/tswd-portfolio/)
-
 ## Part 1: Working with web-based visualization tools and data
 <iframe src="https://data.oecd.org/chart/7b81" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7b81" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
