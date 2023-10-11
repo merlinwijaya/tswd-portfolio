@@ -1,12 +1,17 @@
 | [home page](https://merlinwijaya.github.io/tswd-portfolio/) | [visualizing debt](dataviz2) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
+# The final data story and Final design decisions
 **[Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/tswd-final-project-fall23/index.html)**
 
 # Changes made since Part II 
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-1. Changed the pie chart to a scorecard visual.
+1. Changed and combined the data from the previous pie chart and slope chart from part II to a scorecard visual for the Final Data Story.
+
+Remove the pie chart that shows the percentage of public schools that offer At Least One Type of Mental Health Services and the slope chart for current solution implementation. Visualize the data using text, similar to the score card where the number is emphasized with a bigger font. The previous visuals caused confusion to the interviewees. I changed them to a scorecard that is straightforward so that the audience can get the idea quickly.
+
 2. Added another visual showing the effect of the solution (school-based mental health services).
+
+The common answer that I got from the interview is to show the impact of the solution. I added a new visual and placed it at the end to show that there is indeed hope in solving the suicidal problem and this solution has been studied to be effective in decreasing on decreasing mental health problems.
+
 3. 
 
 ## The audience
@@ -22,15 +27,8 @@ Parents play a pivotal role in shaping the mental well-being of their children. 
 
 4. Individuals.
 We also have the power to make a significant impact on suicide prevention and mental health support. Empowering oneself with knowledge about mental health and suicide risk factors is vital. Understanding how to effectively support those in crisis is crucial in fostering a supportive environment. Additionally, individuals can contribute to suicide prevention and mental health support by getting involved with local initiatives through volunteering or making donations. Sharing information about mental health resources and crisis helplines with friends and family can also make a difference in promoting mental health awareness and support within the community.
+
   
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story.
-> A few paragraphs summarizing work, design decisions and observations.
-
-Color palette
-
-Text here!
-
 ## References
 1. Facts About Suicide. (2023). Centers for Disease Control and Prevention. Available at: https://www.cdc.gov/suicide/facts/index.html (Accessed: 3 October 2023).
 
