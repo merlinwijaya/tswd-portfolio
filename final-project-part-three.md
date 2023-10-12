@@ -4,14 +4,15 @@
 **[Final Data Story on Shorthand](https://carnegiemellon.shorthandstories.com/tswd-final-project-fall23/index.html)**
 
 # Changes made since Part II 
-1. Changed and combined the data from the previous pie chart and slope chart from part II to a scorecard visual for the Final Data Story.
+- Changed and combined the data from the previous pie chart and slope chart from part II to a scorecard visual for the Final Data Story.
 
 I streamlined and merged the data previously presented in the pie chart and slope chart from Part II into a more straightforward scorecard visual for the Final Data Story. I removed the pie chart that showed the percentage of public schools offering at least one type of mental health service and the slope chart illustrating the current solution's implementation. Instead, I opted for a text-based scorecard format, emphasizing the numbers with a larger font to enhance clarity. This change was made in response to feedback from interviewees who found the previous visuals confusing. The goal was to create a clear and easily understandable presentation for the audience.
-2. Added another visual showing the effect of the solution (school-based mental health services).
+
+- Added another visual showing the effect of the solution (school-based mental health services).
 
 In response to a common suggestion received during interviews, I introduced an additional visual to highlight the impact of the solution, specifically school-based mental health services. This new visual was  placed at the end of the presentation to emphasize that a viable solution exists for addressing the issue of suicide. It also underscored that this solution has undergone study, demonstrating its effectiveness in reducing mental health problems.
 
-3.  Added more transitional questions
+- Added more transitional questions
 
 I integrated additional transitional questions into the narrative. These questions serve to maintain a logical and smooth flow in the story, which enhances the audience's understanding and engagement. This design decision is effective because it acts as a bridge between different sections, ensuring that the information is presented in a clear and organized way.
 
