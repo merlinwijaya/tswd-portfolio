@@ -26,5 +26,7 @@ Fostering Youth Mental Well-being: Exploring Suicidal Behavior in Adolescents an
 The narrative centers around the underlying causes of suicidal behavior in adolescents and young adults. The story discusses mental health education as one of the initiatives to help this problem. The story urges everyone to join the fight against this pressing issue.
 
 [Part I](final-project-part-one)
+
 [Part II](final-project-part-two)
+
 [Part III](final-project-part-three)
