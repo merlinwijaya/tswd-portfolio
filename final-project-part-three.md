@@ -6,13 +6,15 @@
 # Changes made since Part II 
 1. Changed and combined the data from the previous pie chart and slope chart from part II to a scorecard visual for the Final Data Story.
 
-Remove the pie chart that shows the percentage of public schools that offer At Least One Type of Mental Health Services and the slope chart for current solution implementation. Visualize the data using text, similar to the score card where the number is emphasized with a bigger font. The previous visuals caused confusion to the interviewees. I changed them to a scorecard that is straightforward so that the audience can get the idea quickly.
-
+I streamlined and merged the data previously presented in the pie chart and slope chart from Part II into a more straightforward scorecard visual for the Final Data Story. I removed the pie chart that showed the percentage of public schools offering at least one type of mental health service and the slope chart illustrating the current solution's implementation. Instead, I opted for a text-based scorecard format, emphasizing the numbers with a larger font to enhance clarity. This change was made in response to feedback from interviewees who found the previous visuals confusing. The goal was to create a clear and easily understandable presentation for the audience.
 2. Added another visual showing the effect of the solution (school-based mental health services).
 
-The common answer that I got from the interview is to show the impact of the solution. I added a new visual and placed it at the end to show that there is indeed hope in solving the suicidal problem and this solution has been studied to be effective in decreasing on decreasing mental health problems.
+In response to a common suggestion received during interviews, I introduced an additional visual to highlight the impact of the solution, specifically school-based mental health services. This new visual was  placed at the end of the presentation to emphasize that a viable solution exists for addressing the issue of suicide. It also underscored that this solution has undergone study, demonstrating its effectiveness in reducing mental health problems.
 
-3. 
+3.  Added more transitional questions
+
+I integrated additional transitional questions into the narrative. These questions serve to maintain a logical and smooth flow in the story, which enhances the audience's understanding and engagement. This design decision is effective because it acts as a bridge between different sections, ensuring that the information is presented in a clear and organized way.
+
 
 ## The audience
 The target audiences are:
@@ -48,9 +50,7 @@ We also have the power to make a significant impact on suicide prevention and me
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+For the final data story, I managed to show studies of the effect of SBMHS. If I had more time, I would have included visual representations of SBMHS implementation on a state level and conducted a comparative analysis between two different states to identify the key factors influencing the effectiveness of SBMHS programs. Nonetheless, I am satisfied with the current version of my final story, as it effectively walks the audience through the user experiences and narrative arc established in Part I.
 
 # Github Repository
 **[Github Repository](https://github.com/merlinwijaya/tswd-portfolio)**
