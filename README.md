@@ -21,7 +21,8 @@ I want to work as a data analyst or consultant after graduation. From this cours
 ## Final project
 **Content Warning** The topic for my final project is a sensitive topic and some people may find it disturbing.
 
-Fostering Youth Mental Well-being: Exploring Suicidal Behavior in Adolescents and Young Adults 
+Fostering Youth Mental Well-being: Exploring Suicidal Behavior in Adolescents and Young Adults.
+
 The narrative centers around the underlying causes of suicidal behavior in adolescents and young adults. The story discusses mental health education as one of the initiatives to help this problem. The story urges everyone to join the fight against this pressing issue.
 
 [Part I](final-project-part-one)
